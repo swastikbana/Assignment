@@ -1,0 +1,14 @@
+table,
+td,
+th {
+  border: 2px solid black;
+}
+
+.tableData {
+  min-width: 40%;
+  border-collapse: collapse;
+}
+
+.container {
+  min-height: 53vh;
+}
